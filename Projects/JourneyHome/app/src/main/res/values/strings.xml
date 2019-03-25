@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">JourneyHome</string>
+    <string name="logo_name">JourneyHomeLogo</string>
+    <string name="text_Properties">Select a property:</string>
+    <string name="hint_role">Home Buyer or Realtor?</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_property">Property:</string>
+    <string name="hint_buyer">Buyer:</string>
+    <string name="hint_realtor">Realtor:</string>
+    <string name="hint_buyers_email">Buyer\'s Email</string>
+    <string name="hint_realtors_email">Realtor\'s Email</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_address">Enter the Property Address</string>
+    <string name="error_message_role">Enter either Realtor or Home Buyer</string>
+    <string name="error_message_buyers_email">Enter Valid Email for Buyer</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">Sign Up Here</string>
+    <string name="text_already_member">Return to Login here</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Match</string>
+    <string name="error_valid_email_password">Wrong Email or Password. Do you need to sign up?</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello_realtor">Hello Realtor,</string>
+    <string name="text_hello_buyer">Hello Buyer,</string>
+    <string name="text_title">Android Tutorials Hub</string>
+    <string-array name="roles_array">
+        <item>Home Buyer</item>
+        <item>Realtor</item>
+    </string-array>
+</resources>

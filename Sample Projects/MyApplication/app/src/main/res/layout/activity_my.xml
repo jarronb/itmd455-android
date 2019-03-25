@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.bailey.myapplication.MyActivity">
+
+    <TextView
+        android:id="@+id/textViewOutput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        tools:layout_editor_absoluteX="130dp"
+        tools:layout_editor_absoluteY="46dp" />
+
+    <Button
+        android:id="@+id/buttonClickme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button - Click ME"
+        tools:layout_editor_absoluteX="130dp"
+        tools:layout_editor_absoluteY="150dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="256dp"
+        android:layout_height="49dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Please enter some text here!"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="244dp" />
+</android.support.constraint.ConstraintLayout>
